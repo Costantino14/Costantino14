@@ -9,9 +9,9 @@ About Me
 
 🛠️ Skills
 
-HTML/CSS
-JavaScript
-React
-MERN Stack
-Node.js and Express
-Git and GitHub
+-HTML/CSS
+-JavaScript
+-React
+-MERN Stack
+-Node.js and Express
+-Git and GitHub
