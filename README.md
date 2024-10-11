@@ -7,7 +7,7 @@ Hi there, I'm **Costantino** 👋
 
 💼 I'm looking for a job as a Junior Web Developer
 😄 Pronouns: He/Him
-⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+⚡ Fun fact: I lived in the countryside of Tasmania!
 
 🛠️ **Skills**
 
