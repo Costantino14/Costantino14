@@ -1,6 +1,6 @@
 Hi there, I'm **Costantino** 👋
 
-About Me
+**About Me**
 
 👀 I'm interested in web development, artificial intelligence, and emerging technologies
 🌱 I'm currently learning TypeScript and Angular
@@ -9,11 +9,11 @@ About Me
 😄 Pronouns: He/Him
 ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
-🛠️ Skills
+🛠️ **Skills**
 
--HTML/CSS
--JavaScript
--React
--MERN Stack
--Node.js and Express
--Git and GitHub
+- HTML/CSS 
+- JavaScript
+- React
+- MERN Stack
+- Node.js and Express
+- Git and GitHub
