@@ -1,4 +1,4 @@
-Hi there, I'm Costantino 👋
+Hi there, I'm **Costantino** 👋
 About Me
 
 👀 I'm interested in web development, artificial intelligence, and emerging technologies
