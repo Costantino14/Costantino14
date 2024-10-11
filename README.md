@@ -11,9 +11,6 @@ Hi there, I'm **Costantino** 👋
 
 🛠️ **Skills**
 
-- HTML/CSS 
-- JavaScript
-- React
-- MERN Stack
-- Node.js and Express
+- HTML/CSS - JavaScript
+- MERN Stack (MongoDB, Express, React, Node,js)
 - Git and GitHub
